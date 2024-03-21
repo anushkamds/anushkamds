@@ -1,16 +1,14 @@
-### Hi there 👋
+👨‍💻 About Me: I specialise in the modern technology stack, which includes React, TypeScript, MySQL, MonogDB, Azure DevOps, Micro Frontend  and Node.js. My expertise extends to designing and implementing robust Continuous Integration and Continuous Deployment (CI/CD) pipelines using Github Actions, Docker, and Azure DevOps. I provide comprehensive solutions for modern system requirements using Azure DevOps. My approach involves creating the best user experience for applications, especially when dealing with complex user actions. Additionally, I leverage modern AI solutions to make faster decisions and reduce bottlenecks.
 
-<!--
-**anushkamds/anushkamds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ My coding journey started in university with small projects, leading me to full-stack projects. Driven by a passion for technology, I've embraced continuous learning to advance my skills. This commitment has propelled my career forward in the ever-evolving tech landscape.
 
-Here are some ideas to get you started:
+🚀 Personal Motto: "Code with Purpose, Lead with Passion: Building Tomorrow’s Technology Today."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Programming Languages: JavaScript, TypeScript, PHP
+🔧 Technologies & Tools: React.js, Angular, PHP, Figma, Zustand, Redux, Git, GitHub, Cypress, Jest, Node.js, jQuery, Express.js, GraphQL, Material-UI, Tailwind, OAuth2, JWT, Webpack, Module Federation, PostgreSQL, RESTful APIs, Jira
+
+☁️ Cloud: CI/CD, Docker, Azure,
+
+📊 Methodologies: Scrum, Agile, Micro Services. Micro Frontend
+
+🌐 Interests: Micro Architecture, Cloud Computing, Containerisation, Web Performance
