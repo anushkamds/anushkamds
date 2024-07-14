@@ -7,7 +7,7 @@
 💻 Programming Languages: JavaScript, TypeScript, PHP
 🔧 Technologies & Tools: React.js, Angular, PHP, Figma, Zustand, Redux, Git, GitHub, Cypress, Jest, Node.js, jQuery, Express.js, GraphQL, Material-UI, Tailwind, OAuth2, JWT, Webpack, Module Federation, PostgreSQL, RESTful APIs, Jira
 
-☁️ Cloud: CI/CD, Docker, Azure,
+☁️ Cloud: CI/CD, Docker, Azure, AWS
 
 📊 Methodologies: Scrum, Agile, Micro Services. Micro Frontend
 
